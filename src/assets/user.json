@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "fname": "Boom",
+      "lname": "ika",
+      "email": "Bhoomika@gmail.com",
+      "phone": "6172486534",
+      "password": "Boom@123"
+    },
+    {
+      "id": "2",
+      "fname": "Bhavana",
+      "lname": "h",
+      "email": "Bhavana@gmail.com",
+      "phone": "6172486789",
+      "password": "Bhavana@123"
+    },
+    {
+      "id": "3",
+      "fname": "bala",
+      "lname": "balaji",
+      "email": "bala@gmail.com",
+      "phone": "",
+      "password": "123"
+    },
+    {
+      "id": "7",
+      "fname": "bhav",
+      "lname": "firu",
+      "email": "bhav@gmail.com",
+      "phone": "123",
+      "password": "123"
+    },
+    {
+      "fname": "nidhi",
+      "lname": "t",
+      "email": "ni@gmail.com",
+      "phone": "9677",
+      "password": "111",
+      "id": "kpcveL8"
+    },
+    {
+      "fname": "jjh",
+      "lname": "iu",
+      "email": "u",
+      "phone": "78",
+      "password": "yug",
+      "id": "uCl8hyS"
+    }
+  ]
+}

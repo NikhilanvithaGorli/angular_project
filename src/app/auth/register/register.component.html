@@ -1,0 +1,126 @@
+<!-- <p>register works!</p>
+<app-login></app-login> -->
+
+<p>employee1 works!</p><h1>{{errorMsg}}</h1>
+hii
+
+<h1>Employee details:</h1>
+<br>
+
+<label >fname:</label><br>
+<input #fname type="text"><br>
+
+<label >lname:</label><br>
+<input #lname type="text"><br>
+
+<label >email:</label><br>
+<input #email type="mail"><br>
+
+<label >phone:</label><br>
+<input #phone type="phone"><br>
+
+<label >password:</label><br>
+<input #password type="password"><br>
+
+<button (click)="postEmp( fname.value,lname.value,email.value,phone.value,password.value)">Post</button>
+<a class="nav-link active" aria-current="page" href="../login">continue</a>
+<!-- 
+<div >
+    <section class="rounded rounded-4 w-75 mx-auto my-5" style="background-color: #ffffff;" id="background">
+      <div class="container py-3 h-100 py-5">
+        <div class="row d-flex justify-content-center align-items-center h-100"  >
+          <div class="col col-xl-7" >
+            <div class="card" style="border-radius: 1rem;" id="loginContainer">
+              <div class="row g-0 ">
+                 <div class="col-md-6 col-lg-5 d-none d-md-block">
+                  <img src="../../../assets/blured.jpg"
+                    alt="login form" class="w-100 mt-5 pb-5" style="border-radius: 1rem 0 0 1rem;" />
+  
+                </div>
+  
+                  <div class="card-body text-black">
+  
+                    <form formGroup="form">
+  
+                      <div class="d-flex justify-content-center mt-5">
+                        <img src="../../../assets/logo.webp" alt="" class="w-50">
+                      </div>
+  
+                      <h5 class="fw-normal mb-2 pb-2 fs-5" style="letter-spacing: 1px;">Registration page: </h5>
+  
+                      <br>
+                      <div class="form-group row">
+                        <label class="col-sm-3 col-form-label">Email:</label>
+                        <div class="col-sm-9">
+                          <input  type="email" formControlName="email" class="form-control"  placeholder="Email" required>
+                        </div>
+                      </div>
+
+                      
+                    <br>
+                      <div class="form-group row">
+                        <label class="col-sm-3 col-form-label">Password</label>
+                        <div class="col-sm-9">
+                          <input type="password" formControlName="password" class="form-control"  placeholder="Password" required>
+                        </div>
+                      </div>
+
+                      <br>
+                      <div class="form-group row">
+                        <label class="col-sm-3 col-form-label">First name:</label>
+                        <div class="col-sm-9">
+                          <input type="text" formControlName="fname" class="form-control"  placeholder="first name" required>
+                        </div>
+                      </div>
+                   
+                      <br>
+                      <div class="form-group row">
+                        <label class="col-sm-3 col-form-label">Last name:</label>
+                        <div class="col-sm-9">
+                          <input type="text" class="form-control"  placeholder="last name" name="lname" [(ngModel)]="Twowa" required>
+                        </div>
+                      </div>
+
+                      <br>
+                      <div class="form-group row">
+                        <label class="col-sm-3 col-form-label">ph no.</label>
+                        <div class="col-sm-9">
+                          <input type="text" formControlName="ph" class="form-control"  placeholder="phone number" required>
+                        </div>
+                      </div>
+  
+                      <div class="pt-3 mb-2">
+                        <button type="submit" class="btn btn-primary btn-sm btn-block ms-2">Register</button>
+                        <a href="#!" class="small text-muted ms-3">Terms of use </a>
+                        <a href="#!" class="small text-muted"> Privacy policy</a>
+                      </div>
+  
+  
+  
+                    </form>
+  
+                  </div>
+                </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div> -->
+
+  <!-- <form>
+    <div class="form-group">
+      <label for="exampleInputEmail1">Email address</label>
+      <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email" name="email" [(ngModel)]="register.fname">
+
+    </div>
+    <div class="form-group">
+      <label for="exampleInputPassword1">Password</label>
+      <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+    </div>
+    <div class="form-group form-check">
+      <input type="checkbox" class="form-check-input" id="exampleCheck1">
+      <label class="form-check-label" for="exampleCheck1">Check me out</label>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form> -->

@@ -1,0 +1,35 @@
+<p>cart works!</p>
+<!-- 
+<button (click)="getUser()" >button</button> -->
+<!--     
+
+<div *ngFor="let d of cart">
+  <span>{{d.user}}</span>{{d.id}} {{d.num}};
+</div> -->
+
+<!-- <button (click)="getEmp()" >button</button> -->
+
+<span *ngFor="let n of name">
+  {{n}}
+</span>
+<br>
+<span *ngFor="let p of price">
+  {{p}}
+</span>
+<br>
+
+<span *ngFor="let d of img">
+  <span> <img src={{d}} /></span>
+<!--    
+  <button (click)="goPrevious(num)" >-</button>
+  {{num}}
+  <button (click)="goNext(num)">+</button> -->
+</span>
+
+<br>
+
+<button type="button" [disabled]="clicked" (click)="getEmp(); clicked = true;" class="btn btn-primary">view cart</button>
+<br><br>
+<span>{{amount}}</span>
+<a class="nav-link active" aria-current="page" href="../payment">payment</a>
+{{cUser}}

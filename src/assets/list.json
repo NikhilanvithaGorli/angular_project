@@ -1,0 +1,30 @@
+{
+    "lists": [
+      {
+        "nid": "1",
+        "name": "book",
+        "img" : "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010__340.jpg",
+        "price" : 200
+      },
+      {
+        "nid": "2",
+        "name": "pen",
+        "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7nf92HX54qAFLdhedUweQ7U736OELBTFTQ94R4yNb7tPopnzna0DrUh8nYpHEC6K6q5U&usqp=CAU",
+        "price" : 100
+      },
+
+      {
+        "nid": "3",
+        "name": "pencil",
+        "img" : "https://upload.wikimedia.org/wikipedia/commons/0/08/Pencils_hb.jpg",
+        "price" : 50
+      },
+
+      {
+        "nid": "4",
+        "name": "scale",
+        "img" : "https://m.media-amazon.com/images/I/31lbGRyFN4L.jpg",
+        "price" : 90
+      }
+    ]
+  }

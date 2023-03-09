@@ -1,0 +1,88 @@
+{
+  "carts": [
+    {
+      "user": "Bhoomika@gmail.com",
+      "name": "book",
+      "img": "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010__340.jpg",
+      "price": 200,
+      "id": 1
+    },
+    {
+      "user": "Bhoomika@gmail.com",
+      "name": "book",
+      "img": "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010__340.jpg",
+      "price": 200,
+      "id": 2
+    },
+    {
+      "user": "Bhoomika@gmail.com",
+      "name": "pen",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7nf92HX54qAFLdhedUweQ7U736OELBTFTQ94R4yNb7tPopnzna0DrUh8nYpHEC6K6q5U&usqp=CAU",
+      "price": 100,
+      "id": 3
+    },
+    {
+      "user": "Bhoomika@gmail.com",
+      "name": "pencil",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/08/Pencils_hb.jpg",
+      "price": 50,
+      "id": 4
+    },
+    {
+      "user": "Bhoomika@gmail.com",
+      "name": "book",
+      "img": "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010__340.jpg",
+      "price": 200,
+      "id": 5
+    },
+    {
+      "user": "bala@gmail.com",
+      "name": "book",
+      "img": "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010__340.jpg",
+      "price": 200,
+      "id": 6
+    },
+    {
+      "user": "bala@gmail.com",
+      "name": "pen",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7nf92HX54qAFLdhedUweQ7U736OELBTFTQ94R4yNb7tPopnzna0DrUh8nYpHEC6K6q5U&usqp=CAU",
+      "price": 100,
+      "id": 7
+    },
+    {
+      "user": "bhav@gmail.com",
+      "name": "book",
+      "img": "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010__340.jpg",
+      "price": 200,
+      "id": 8
+    },
+    {
+      "user": "bhav@gmail.com",
+      "name": "pen",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7nf92HX54qAFLdhedUweQ7U736OELBTFTQ94R4yNb7tPopnzna0DrUh8nYpHEC6K6q5U&usqp=CAU",
+      "price": 100,
+      "id": 9
+    },
+    {
+      "user": "ni@gmail.com",
+      "name": "book",
+      "img": "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010__340.jpg",
+      "price": 200,
+      "id": 10
+    },
+    {
+      "user": "ni@gmail.com",
+      "name": "scale",
+      "img": "https://m.media-amazon.com/images/I/31lbGRyFN4L.jpg",
+      "price": 90,
+      "id": 11
+    },
+    {
+      "user": "u",
+      "name": "book",
+      "img": "https://cdn.pixabay.com/photo/2015/11/19/21/10/glasses-1052010__340.jpg",
+      "price": 200,
+      "id": 12
+    }
+  ]
+}
